@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Bay-bay by",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T03:09:19.424817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bay-bay by",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_Bay-bay_by_SiLENT←NOiSE.txt"
+    }
+  ]
+}
